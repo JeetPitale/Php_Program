@@ -3,7 +3,6 @@
     </head>
     <body>
         <?php
-        #we can use h/H=hour , m/M=min , s/S=second 
         $hour=date("h:m:s A");
         echo $hour;
         echo "<br>";
