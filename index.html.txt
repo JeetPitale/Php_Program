@@ -1,0 +1,47 @@
+<h1>Here are My PHP Programs</h1>
+<a href="array_function.php">Array Functions</a><br>
+<a href="assignment_Opertors.php">Assignment Opertors</a><br>
+<a href="calc_form.php">Calc Form</a><br>
+<a href="char_triangle.php">Character Triangle</a><br>
+<a href="color_Array.php">Color Array</a><br>
+<a href="Comparison_Opertors.php">Comparison Opertors</a><br>
+<a href="diamond.php">Diamond Pattern</a><br>
+<a href="First.php">First Program</a><br>
+<a href="foreach_Associative_Array.php">Foreach With Associative Array</a><br>
+<a href="foreach_Indexed_Array.php">Foreach With Indexed Array</a><br>
+<a href="form.php">Form</a><br>
+<a href="global_scope.php">Global Scope</a><br>
+<a href="Greeting.php">Greeting</a><br>
+<a href="if-else.php">If-Else</a><br>
+<a href="leapyear_do-while_loop.php">LeapYear Do-While Loop</a><br>
+<a href="leapyear_while-loop.php">LeapYear While Loop</a><br>
+<a href="leapyear.php">Leap Year</a><br>
+<a href="local_scope.php">Local Scope</a><br>
+<a href="math-function.php">Math Functions</a><br>
+<a href="mirror_pattern.php">Mirror Pattern</a><br>
+<a href="Month.php">Month</a><br>
+<a href="number_triangle.php">Number Triangle</a><br>
+<a href="One_D_Array.php">One D Array</a><br>
+<a href="Oprater.php">Oprators</a><br>
+<a href="pattern.php">Pattern</a><br>
+<a href="Post_and_Pre.php">Post and Pre</a><br>
+<a href="rev_mirror.php">Rev. Mirror</a><br>
+<a href="rev_pattern.php">Rev. Pattern</a><br>
+<a href="same_char_triangle.php">Same Character Triangle</a><br>
+<a href="same_number_triangle.php">Same Number Triangle</a><br>
+<a href="static_scope.php">Static Scope</a><br>
+<a href="String_Opertors.php">String Opertors</a><br>
+<a href="switchcase.php">Switch Case</a><br>
+<a href="textarea.html">Textarea</a><br>
+<a href="triangle.php">Triangle</a><br>
+<a href="type_casting_array.php">Type Casting Array</a><br>
+<a href="type_casting_float.php">Type Casting Float</a><br>
+<a href="type_casting_int.php">Type Casting Integer</a><br>
+<a href="type_casting_null.php">Type Casting Null</a><br>
+<a href="type_casting_object.php">Type Casting Object</a><br>
+<a href="type_casting_string.php">Type Casting String</a><br>
+<a href="variable-function.php">Variable Function</a><br>
+<a href="Weekday.php">Weekday</a><br>
+
+
+
