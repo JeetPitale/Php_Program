@@ -3,7 +3,7 @@
     </head>
     <body>
         <?php
-        #we can use D=day , l=full day name, N=number , M=Month , d=Date , Y=Year , 
+        
         $month=date("M");
         echo $month;
         echo "<br>";
