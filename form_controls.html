@@ -1,0 +1,23 @@
+<html>
+    <head><title>Form Elements</title></head>
+    <body>
+        <form action="form_control.php" method="post">
+            Enter Name : <input type="text"  name="name"><br><br>
+            Enter Gender : <input type="radio" value="Male" name="gender"> Male <input type="radio" value="Female" name="gender"> Female <br><br>
+            Select Hobbies : <input type="checkbox" value="Gaming" name="Gaming">Gaming
+                             <input type="checkbox" value="Reading" name="Reading">Reading
+                             <input type="checkbox"  value="Nothing" name="Nothing">Do Nothing<br><br>
+            Enter Address : <textarea column="20" row="20" name="textarea"></textarea><br><br>
+            Select Course : <select name="course[]" multiple><!--<select name="course" multiple></select>-->
+                <option value="php">PHP</option>
+                <option value="python">Python</option>
+                <option value="perl">Perl</option>
+                </select><br><br>
+            <!--Enter Password : <input type="password" name="password">-->
+            <input type="reset" name="Reset"> <input type="submit" name="Submit">
+
+            
+
+        </form>
+    </body>
+</html>
